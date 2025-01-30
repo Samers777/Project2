@@ -8,7 +8,7 @@ public class DemoTest2 {
 	int b= 20;
 	
 	int result = a + b;
-		
+		//this is a comment
 	System.out.println(a + b); 
 	}
 }
